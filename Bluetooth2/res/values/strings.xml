@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Bluetooth2</string>
+    <string name="title_activity_main">Bluetooth2</string>
+    <string name="btn_ON">SEND 1</string>
+    <string name="btn_OFF">SEND 0</string>
+
+</resources>
